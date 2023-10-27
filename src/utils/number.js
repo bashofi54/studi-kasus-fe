@@ -1,0 +1,1 @@
+export const numberWithCommas = new Intl.NumberFormat();

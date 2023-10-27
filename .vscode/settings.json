@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.preferredDarkColorTheme": "One Dark Pro Mix",
+  "workbench.preferredHighContrastColorTheme": "One Dark Pro Mix",
+  "workbench.editor.decorations.colors": true,
+  "editor.suggest.showColors": true,
+  "workbench.preferredHighContrastLightColorTheme": "One Dark Pro Mix",
+  "workbench.preferredLightColorTheme": "One Dark Pro Mix",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "left"
+}
